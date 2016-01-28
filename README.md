@@ -1,2 +1,3 @@
-# Parser_RecursiveDecent
-Building a Parser using the Recursive Decent approach.
+# Parser with Recursive Decent
+
+For full documentation, please visit: http://myweb.ttu.edu/ihimawan/ParserDocumentation
